@@ -1,0 +1,231 @@
+@media (max-width: 1200px){
+    .about-text-left p {
+        font-size: 18px;
+        line-height: 30px;
+    }
+    .mb-5 {
+        margin-bottom: 1rem!important;
+    }
+    .about-text-left h1{
+        font-size: 30px;
+    }
+    .left-text-sec p{
+        font-size: 1rem;
+        font-weight: 300;
+    }
+}
+@media (max-width: 992px){
+    .container {
+        max-width: 900px;
+    }
+    .pricing-section {
+        padding-bottom: 50px;
+    }
+    .about-section-bottom h1{
+        font-size: 30px;
+    }
+    .about-section-bottom p{
+        font-size: 1rem;
+    }
+    .about-text-left {
+        margin-top: 15px;
+    }
+    .about-text-left p {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .feature-content {
+        height: 245px;
+    }
+    .left-text-sec h4{
+        font-size: 20px;
+    }
+    .w-50 {
+        width: 77%!important;
+    }
+}
+@media (max-width: 900px){
+    .container {
+        max-width: 870px;
+    }
+}
+@media (max-width: 768px){
+    .container{
+        max-width: 720px;
+    }
+    .about-section .row>* {
+        padding-right: calc(var(--bs-gutter-x)/ 1);
+        padding-left: calc(var(--bs-gutter-x)/ 1);
+    }
+    .about-item .card{
+        height: 250px;
+    }
+    .about-item img{
+        width: 85px;
+    }
+}
+@media (max-width:700px){
+    .container{
+        max-width: 670px;
+    }
+    .left-text-sec h4 {
+        font-size: 18px;
+    }
+    .left-text-sec p {
+        font-size: 14px;
+        font-weight: 300;
+    }
+}
+@media(max-width:624px){
+    .feature-content {
+        height: 225px;
+    }
+    .left-text-sec h4 {
+        font-size: 15px;
+    }
+    .left-text-sec p {
+        font-size: 13px;
+        font-weight: 300;
+    }
+    .pricing-item-btn a {
+        padding: 12px 22px;
+        font-size: 16px;
+    }
+    .about-section-bottom h1 {
+        font-size: 26px;
+    }
+    .pricing-item h1 {
+        font-size: 28px;
+    }
+    .about-text-left h1 {
+        font-size: 21px;
+    }
+    .about-text-left p {
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .counter-number-item p{
+        font-size: 15px;
+    }
+}
+@media (max-width:576px){
+    .col-xs-7 {
+        flex: 0 0 auto;
+        width: 58.333333%;
+    }
+    .col-xs-5 {
+        flex: 0 0 auto;
+        width: 41.666667%;
+    }
+    .w-50 {
+        width: 100%!important;
+    }
+    .col-xs-4 {
+        flex: 0 0 auto;
+        width: 49.333333%;
+    }
+    textarea.form-control.mb-3 {
+        margin-top: 15px;
+    }
+    .counter-number-item.text-center {
+        margin-top: 20px;
+    }
+    .pricing-item{
+        margin-bottom: 25px;
+    }
+}
+@media(max-width:450px){
+    .slider-caption .form-control {
+        padding: 14px 28px;
+        font-size: 13px;
+        font-weight: 300;
+    }
+    .slider-caption .btn {
+        background: #5ba533;
+        padding: 6px 12px;
+        font-size: 22px;
+        font-weight: 600;
+    }
+    .slider-section{
+        padding: 150px 0;
+    }
+    .slider-caption h4{
+        font-size: 16px;
+        font-weight: 300;
+    }
+    .slider-caption h2{
+        font-size: 28px;
+    }
+}
+@media(max-width:353px){
+    .jon-header .navbar-brand {
+        font-size: 20px;
+        font-weight: 500;
+    }
+    .navbar-toggler {
+        padding: 0;
+    }
+    .slider-caption .form-control {
+        padding: 10px 20px;
+        font-size: 12px;
+        font-weight: 300;
+    }
+    .slider-caption .btn {
+        background: #5ba533;
+        padding: 5px 12px;
+        font-size: 18px;
+        font-weight: 600;
+    }
+    .pricing-item{
+        padding: 35px;
+        margin-bottom: 25px;
+    }
+}
+@media (max-width:340px){
+    .portfolio-title h1{
+        font-size: 24px;
+    }
+    .pricing-title h1{
+        font-size: 22px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
